@@ -1,0 +1,143 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+p{
+    text-align: center;
+    text-size-adjust: 15;
+    color: white;
+    padding-top: 30px;
+
+}
+aside{
+    width: 200px;
+    float: left;
+}
+#half50{
+    width: 654px;
+    float: left;
+
+}
+#first3rows{
+    width: 201px;
+}
+#box1{
+    width: 200px;
+    height: 150px;
+    background-color: magenta;
+    float: left;
+    margin-right:2px;
+    margin-bottom: 2px;
+}
+
+
+#box5{
+    width: 200px;
+    height: 150px;
+    background-color:green;
+    float: left;
+    margin-right:2px;
+    margin-bottom: 2px;
+
+}
+#box7{width: 200px;
+    height: 150px;
+    background-color:yellowgreen;
+    float: left;
+    margin-right:2px;
+    margin-bottom: 2px;
+
+}
+#second3rows{
+    width: 600;
+    height: 453px;
+    float: left;
+}
+#box2{
+    width: 450px;
+    height: 300px;
+    background-color: plum;
+    margin-right: 2px;
+    margin-bottom: 2px;
+}
+
+
+#box8{width: 150px;
+    height: 150px;
+    background-color:green;
+    float: left;
+    margin-right: 2px;
+    margin-bottom: 2px;
+}
+#box9{
+    width: 300px;
+    height: 150px;
+    background-color:cyan;
+    float: left;
+    margin-right: 2px;
+    margin-bottom: 2px;
+
+}
+
+#box3{
+    height: 603px;
+    width: 500px;
+    background-color: rgb(250, 124, 102);
+    float: left;
+    margin-right:2px;
+    margin-bottom: 2px;
+    font-size: 15mm;
+    
+}
+#last{
+    height: 603px;
+    width: 200px;
+    float: left;
+    
+}
+#box11{
+    height: 150px;
+    width: 650px;
+    background-color:rgb(105, 45, 105);
+    float: left;
+    margin-right: 2px;
+    margin-bottom: 2px;
+
+}
+#box4{
+    width: 200px;
+    height: 150px;
+    background-color: orange;
+    float: left;
+    margin-right: 2px;
+    margin-bottom: 2px;
+
+}
+#box6{
+    width: 200px;
+    height: 150px;
+    background-color: cornflowerblue;
+    float: left;
+    margin-right: 2px;
+    margin-bottom: 2px;
+}
+#box10{
+    width: 200px;
+    height: 150px;
+    background-color: teal;
+    float: left;
+    margin-right: 2px;
+    margin-bottom: 2px;
+}
+#box12{
+    width: 200px;
+    height: 150px;
+    background-color: red;
+    float: left;
+    margin-right:2px;
+    margin-bottom: 2px;
+}
+#box3 p{
+    padding-top: 300px;
+}
